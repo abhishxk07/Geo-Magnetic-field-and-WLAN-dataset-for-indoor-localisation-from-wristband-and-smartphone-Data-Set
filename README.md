@@ -1,0 +1,1 @@
+# Geo-Magnetic-field-and-WLAN-dataset-for-indoor-localisation-from-wristband-and-smartphone-Data-Set
